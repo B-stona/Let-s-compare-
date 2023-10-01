@@ -1,2 +1,13 @@
-
-file:///C:/Users/Millie/Desktop/Code/index%202.html
+<!doctype html>
+<html lang=en>
+<head>
+    <meta charset="UTF-8">
+  <title>Welcome to: Let's Compare With Boity</title>
+<body>
+<h1>Introduction</h1>
+<h2>Why use this website? Let's find out!</h2>
+<p>This website will assist you in comparing anything you would like to compare. It could be comparing smartphone brands or comparing soccer sqauds, etc.</p>
+<img src="file:///C:/Users/Millie/Desktop/Code/images/ps_01%20(1).jpg" alt="VS" />
+<img src="https://img.freepik.com/premium-vector/man-character-thinking_155707-268.jpg" alt= "Thinking"/>
+</body>
+</html>
